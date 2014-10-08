@@ -24,8 +24,8 @@ __Common To All Malicious Files (so far)__
 
 **Prerequisites:**
 
-1. findmyhash installed and accessible
-2. file containing supported hashes, one per line
+1. Perl
+2. wget
 
 **Release Dates:**
 
