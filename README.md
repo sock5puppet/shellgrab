@@ -7,7 +7,7 @@ Shellgrab
 
 Sock5 Puppet (@sock5puppet)
 
-**Details: **
+**Details:**
 
 The script will parse logs in a given directory for wget or curl strings called by the exploit attempts.  Once identified, the script will output the identified strings to a separate results file in the log directory.  It will then attempt to download each of the identified exploit scripts and store them in their own directory using wget.  It will identify URL and IP strings along with wget and curl entries.
 
